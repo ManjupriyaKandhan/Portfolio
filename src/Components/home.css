@@ -1,0 +1,40 @@
+
+.step1{
+    color: white;
+    font-size: 25px;
+    font-weight: 300;
+    margin-top: 50px;
+}
+
+.step2{
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+
+}
+.step3{
+    color: white;
+    font-size: 16px;
+    font-weight: 300;
+
+}
+.header{
+  text-align: center;
+  
+}
+  
+.part1{
+    margin-left: 5%
+  
+}
+
+.part2 img{
+    border: 2px solid black;
+    width: 300px;
+    height: 350px;
+    border-radius: 40%;
+    object-fit: cover;
+    display: block;
+    margin-left: 35%;
+}
+
